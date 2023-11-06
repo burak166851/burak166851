@@ -1,0 +1,132 @@
+道具
+邪恶熊 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/
+
+PrimalItem_ImprintBoost_CuddleBear_Black.PrimalItem_ImprintBoost_CuddleBear_Black_C'" 1 500    
+溜溜球 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_Yoyo.PrimalItem_MatureBoost_Toy_Yoyo_C'" 1 500    
+球拍- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_PaddleBall.PrimalItem_MatureBoost_Toy_PaddleBall_C'" 1 500    
+绳子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/PrimalItem_MatureBoost_Toy_JumpRope.PrimalItem_MatureBoost_Toy_JumpRope_C'" 1 500
+普通精心膏- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/
+
+PrimalItemConsumable_SoothingBalm.PrimalItemConsumable_SoothingBalm_C'" 1 500    大静心膏- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SoothingBalm_Major.PrimalItemConsumable_SoothingBalm_Major_C'" 1 500    
+小膏- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SoothingBalm_Minor.PrimalItemConsumable_SoothingBalm_Minor_C'" 1 500
+糖果- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DinoCandy.PrimalItemConsumable_DinoCandy_C'" 1 500   
+草素- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/
+
+Consumables/PrimalItemConsumable_PheromoneHerb.PrimalItemConsumable_PheromoneHerb_C'" 1 500    
+肉素- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PheromoneMeat.PrimalItemConsumable_PheromoneMeat_C'" 1 500
+药膏- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Base.PrimalItemConsumable_DungeonSalve_Base_C'" 1 500   
+止血血清 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Healing.PrimalItemConsumable_DungeonSalve_Heali
+
+ng_C'" 1 500   
+微量血清 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Healing_Minor.PrimalItemConsumable_DungeonSalve_Healing_Minor_C'" 1 500    
+耐力精华液 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Stamina.PrimalItemConsumable_DungeonSalve_Stamina_C'" 1 500    
+地牢温度血清- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Temperature.PrimalItemConsumable_DungeonSalve_Temperature_C'" 1 500    
+地牢微温血清 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/
+
+CoreBlueprints/Items/Consumables/PrimalItemConsumable_DungeonSalve_Temperature_Minor.PrimalItemConsumable_DungeonSalve_Temperature_Minor_C'" 1 500
+强力药酒- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentHealSoup.PrimalItemConsumable_PotentHealSoup_C'" 1 500    
+强力能量药酒- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_PotentStaminaSoup.PrimalItemConsumable_PotentStaminaSoup_C'" 1 500 
+超级实验肉- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Consumables/PrimalItemConsumable_SuperTestMeat.PrimalItemConsumable_SuperTestMeat_C'" 1 500
+
+
+
+
+皮肤
+1.熔岩皮肤admincheat giveslotitem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Lava.PrimalItem_ImplantGraft_Lava_C'" 1 1
+2.怪异皮肤Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Eerie.PrimalItem_ImplantGraft_Eerie_C'"1 1
+3.石头皮肤Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Ice.PrimalItem_ImplantGraft_Ice_C'"1 1
+4.迷彩皮肤Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Camo.PrimalItem_ImplantGraft_Camo_C'"1 1
+5闪电皮肤Admincheat GiveSlotItem 
+
+"Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Yahweh.PrimalItem_ImplantGraft_Yahweh_C'"1 1
+
+6.银皮肤.Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Platinum.PrimalItem_ImplantGraft_Platinum_C'"1 1
+7.金色皮肤Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Gold.PrimalItem_ImplantGraft_Gold_C'"1 1
+8.石头皮肤1Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Stone.PrimalItem_ImplantGraft_Stone_C'"1 1
+9.石头皮肤2Admincheat GiveSlotItem "Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Bark.PrimalItem_ImplantGraft_Bark_C'"1 1
+10.彩虹皮肤Admincheat GiveSlotItem 
+
+"Blueprint'/Game/Mobile/SkinGrafts/PrimalItem_ImplantGraft_Colorbomb.PrimalItem_ImplantGraft_Colorbomb_C'"1 1
+
+
+
+头饲皮肤
+皮肤猎人帽子- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemArmor_HunterHat.PrimalItemArmor_HunterHat_C'" 1 500     
+皮肤天线帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_Antenna.PrimalItemSkin_Antenna_C'" 1 500    
+皮肤贝塔帽- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BetaHat.PrimalItemSkin_Bet
+
+aHat_C'" 1 500    
+皮肤蛋帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BrokenEggHat.PrimalItemSkin_BrokenEggHat_C'" 1 500    
+皮肤兔子帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_BunnyEarsHat.PrimalItemSkin_BunnyEarsHat_C'" 1 500    
+皮肤船长海特 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CaptainHat.PrimalItemSkin_CaptainHat_C'" 1 500    
+皮肤猫帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_CatMask.PrimalItemSkin_CatMask_C'" 1 500    
+
+皮肤小鸡帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ChickHat.PrimalItemSkin_ChickHat_C'" 1 500    
+皮肤辣椒帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ChiliHelmet.PrimalItemSkin_ChiliHelmet_C'" 1 500    
+皮肤小丑帽- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ClownMask.PrimalItemSkin_ClownMask_C'" 1 500    
+皮肤魔鬼帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DevilHorns.PrimalItemSkin_DevilHorns_C'" 1 500    
+皮肤Dilo帽子 - admincheat giveslotitem 
+
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DiloMask.PrimalItemSkin_DiloMask_C'" 1 500    
+皮肤恐龙帽子- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DinoHat.PrimalItemSkin_DinoHat_C'" 1 500    
+皮肤Dodorex帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DodorexMask.PrimalItemSkin_DodorexMask_C'" 1 500    
+皮肤Dodowyvern有 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DodowyvernHat.PrimalItemSkin_DodowyvernHat_C'" 1 500    
+皮肤圆点帽- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/
+
+CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_DogMask.PrimalItemSkin_DogMask_C'" 1 500    
+皮肤探险家帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ExplorerHat.PrimalItemSkin_ExplorerHat_C'" 1 500    
+皮肤金冠帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_GoldCrown.PrimalItemSkin_GoldCrown_C'" 1 500    
+皮肤光环帽- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_HaloHat.PrimalItemSkin_HaloHat_C'" 1 500    
+Skin Manticore 靴子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/
+
+PrimalItemSkin_ManticoreBoots.PrimalItemSkin_ManticoreBoots_C'" 1 500    
+Skin Manticore手套 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreGloves.PrimalItemSkin_ManticoreGloves_C'" 1 500    
+Skin Manticore头盔 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreHelmet.PrimalItemSkin_ManticoreHelmet_C'" 1 500    
+Skin Manticore 裤子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticorePants.PrimalItemSkin_ManticorePants_C'" 1 500    
+Skin Manticore 盔甲 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreShield.PrimalItemS
+
+kin_ManticoreShield_C'" 1 500     
+Skin Manticore 衬衫 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_ManticoreShirt.PrimalItemSkin_ManticoreShirt_C'" 1 500    
+皮肤派对帽- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_PartyHat.PrimalItemSkin_PartyHat_C'" 1 500    
+Skin Razer 帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_RazerHat.PrimalItemSkin_RazerHat_C'" 1 500    
+皮肤圣诞老人帽子- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SantaHat.PrimalItemSkin_SantaHat_C'" 1 500    
+
+皮肤骷髅帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SkullMask.PrimalItemSkin_SkullMask_C'" 1 500    
+皮肤旋转帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_SpinnerHat.PrimalItemSkin_SpinnerHat_C'" 1 500    
+皮肤顶帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TopHat.PrimalItemSkin_TopHat_C'" 1 500    
+皮肤火鸡帽 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_TurkeyHat.PrimalItemSkin_TurkeyHat_C'" 1 500    
+皮肤吸血鬼帽子 - admincheat giveslotitem 
+
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_VampireEyes.PrimalItemSkin_VampireEyes_C'" 1 500    
+皮肤狼人帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_WerewolfHat.PrimalItemSkin_WerewolfHat_C'" 1 500    
+皮肤女巫帽子- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Skin/PrimalItemSkin_WitchHat.PrimalItemSkin_WitchHat_C'" 1 500
+Skin 开发者帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItem_Skin_Account_DevKitMaster.PrimalItem_Skin_Account_DevKitMaster_C'" 1 500    
+Skin 开发者帽子 - admincheat giveslotitem 
+
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItem_Skin_Account_GameTester.PrimalItem_Skin_Account_GameTester_C'" 1 500巫师帽子 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_DinoWitchHat.PrimalItemSkin_DinoWitchHat_C'" 1 500   
+咸鱼皮肤 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_FishClub.PrimalItemSkin_FishClub_C'" 1 500    
+烟花手枪 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_FlaregunFireworks.PrimalItemSkin_FlaregunFireworks_C'" 1 500    
+眼睛皮肤 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/
+
+CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_Glasses.PrimalItemSkin_Glasses_C'" 1 500    
+烟花火箭筒 - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_RocketLauncherFireworks.PrimalItemSkin_RocketLauncherFireworks_C'" 1 500
+生日裤子 Pants - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BirthdayPants.PrimalItemSkin_BirthdayPants_C'" 1 500   
+生日衣服 Shirt - admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Leather/PrimalItemSkin_BirthdayShirt.PrimalItemSkin_BirthdayShirt_C'" 1 500
+
+
+
+
+优品
+优品青蛙脚admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/ARKetypes/PrimalItemArmor_FrogFeet.PrimalItemArmor_FrogFeet_C'" 1 5
+蜻蜓翅膀- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Misc/Special/PrimalItem_DragonFlyWings.PrimalItem_DragonFlyWings_C'" 1 500
+平底锅-admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponIronSkillet.PrimalItem_WeaponIronSkillet_C'" 1 500
+撬棍-admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCrowbar.PrimalItem_Wea
+
+ponCrowbar_C'" 1 500
+砍刀-admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Weapons/PrimalItem_WeaponCutlass.PrimalItem_WeaponCutlass_C'" 1 50
+彩炮-admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_Eerie_Turret.PrimalItemStructure_Eerie_Turret_C'" 1 5
+猛犸象双平台鞍-admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Armor/Saddles/PrimalItemArmor_MammothSaddle.PrimalItemArmor_MammothSaddle_C'" 1 5
+赛道旗帜- admincheat giveslotitem "Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimaItemStructure_RaceFlag.PrimaItemStructure_RaceFlag_C'" 1 500
+悬崖平台- admincheat giveslotitem 
+
+"Blueprint'/Game/PrimalEarth/CoreBlueprints/Items/Structures/Misc/PrimalItemStructure_ResurrectPlatform.PrimalItemStructure_ResurrectPlatform_C'" 1 500古怪的手枪-admincheat giveslotitem "Blueprint'/Game/Mobile/Pursuits/Caves/TributeRewards/PrimalItem_WeaponSuperGun.PrimalItem_WeaponSuperGun_C'" 1 500
